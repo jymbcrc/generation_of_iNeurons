@@ -12,4 +12,4 @@ The primary confounding factor in iNeuron generation was that suboptimal neurona
 Our results indicate that extended NGN2 dosage substantially improves neuron purity.
 
 ## biorxiv link
-[to be uploaded]
+https://www.biorxiv.org/content/10.1101/2025.06.20.660764v1
